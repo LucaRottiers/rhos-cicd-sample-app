@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: apps/bgd/overlays/bgd
-    repoURL: https://github.com/redhat-developer-demos/openshift-gitops-examples
+    repoURL: https://github.com/LucaRottiers/rhos-cicd-sample-app
     targetRevision: main
   syncPolicy:
     automated:
